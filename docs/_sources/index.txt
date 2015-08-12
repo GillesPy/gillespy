@@ -1,0 +1,25 @@
+.. GillesPy documentation master file, created by
+   sphinx-quickstart on Mon Aug 10 09:34:06 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to GillesPy's documentation!
+====================================
+
+GillesPy is a modeling toolkit for stochastic simulations for Linux and OSX. It provides a python interface to the StochKit stochastic simulation solvers. It contains a simple python interface for model construction, editing, and simulating models stochastically and deterministically.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 4
+
+   gillespy
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
