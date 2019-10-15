@@ -1,7 +1,6 @@
 
 
-<span style="background-color: #FFFF00">**This project has been deprecated and development is continuing here: https://github.com/gillespy2/GillesPy2.**</span>
-Installation instructions are provided below so that any code written with GillesPy[1,1.1] will remain functional.
+<span style="background-color: #FFFF00">**This project has been deprecated and development is continuing here: https://github.com/gillespy2/GillesPy2.**</span> GillesPy2 includes faster solvers and Python3 compatibility. Installation instructions are provided below so that any code written with GillesPy[1,1.1] will remain functional.
 
 
 
